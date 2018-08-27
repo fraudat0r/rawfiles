@@ -4,5 +4,5 @@
         <Say voice="man">Hello. It has come to my attention that you are a scammer. Because of this I am now flooding your phone lines to prevent you from scamming additional people. This will not stop until you stop. This message was brought to you courtesy of fraud a tor.</Say>
         <Pause length="1"></Pause>
     </Gather>
-    <Redirect>test</Redirect>
+    <Redirect>https://raw.githubusercontent.com/fraudat0r/rawfiles/master/twilio/scammer_flood.xml</Redirect>
 </Response>
